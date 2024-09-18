@@ -1,0 +1,345 @@
+[
+  {
+    "stockName": "Reliance Industries Ltd",
+    "stockPrice": 2400.50,
+    "stockPercent": 1.25,
+    "previousClosePrice": 2370.00,
+    "stockSymbol": "RELIANCE"
+  },
+  {
+    "stockName": "Tata Consultancy Services Ltd",
+    "stockPrice": 3300.00,
+    "stockPercent": 0.80,
+    "previousClosePrice": 3274.00,
+    "stockSymbol": "TCS"
+  },
+  {
+    "stockName": "HDFC Bank Ltd",
+    "stockPrice": 1600.00,
+    "stockPercent": -0.45,
+    "previousClosePrice": 1610.00,
+    "stockSymbol": "HDFCBANK"
+  },
+  {
+    "stockName": "Infosys Ltd",
+    "stockPrice": 1500.00,
+    "stockPercent": 1.00,
+    "previousClosePrice": 1485.00,
+    "stockSymbol": "INFY"
+  },
+  {
+    "stockName": "ITC Ltd",
+    "stockPrice": 300.00,
+    "stockPercent": 0.60,
+    "previousClosePrice": 298.50,
+    "stockSymbol": "ITC"
+  },
+  {
+    "stockName": "Kotak Mahindra Bank Ltd",
+    "stockPrice": 1800.00,
+    "stockPercent": 0.75,
+    "previousClosePrice": 1786.50,
+    "stockSymbol": "KOTAKBANK"
+  },
+  {
+    "stockName": "Larsen & Toubro Ltd",
+    "stockPrice": 1500.00,
+    "stockPercent": -0.10,
+    "previousClosePrice": 1501.50,
+    "stockSymbol": "LT"
+  },
+  {
+    "stockName": "Hindustan Unilever Ltd",
+    "stockPrice": 2200.00,
+    "stockPercent": 0.25,
+    "previousClosePrice": 2194.50,
+    "stockSymbol": "HINDUNILVR"
+  },
+  {
+    "stockName": "State Bank of India",
+    "stockPrice": 400.00,
+    "stockPercent": -0.35,
+    "previousClosePrice": 401.50,
+    "stockSymbol": "SBIN"
+  },
+  {
+    "stockName": "Bharti Airtel Ltd",
+    "stockPrice": 600.00,
+    "stockPercent": 1.10,
+    "previousClosePrice": 593.50,
+    "stockSymbol": "BHARTIARTL"
+  },
+  {
+    "stockName": "Asian Paints Ltd",
+    "stockPrice": 3000.00,
+    "stockPercent": 1.50,
+    "previousClosePrice": 2955.00,
+    "stockSymbol": "ASIANPAINT"
+  },
+  {
+    "stockName": "HCL Technologies Ltd",
+    "stockPrice": 1000.00,
+    "stockPercent": -0.20,
+    "previousClosePrice": 1002.00,
+    "stockSymbol": "HCLTECH"
+  },
+  {
+    "stockName": "Bajaj Finance Ltd",
+    "stockPrice": 7500.00,
+    "stockPercent": 0.50,
+    "previousClosePrice": 7462.50,
+    "stockSymbol": "BAJFINANCE"
+  },
+  {
+    "stockName": "ICICI Bank Ltd",
+    "stockPrice": 900.00,
+    "stockPercent": 0.70,
+    "previousClosePrice": 893.50,
+    "stockSymbol": "ICICIBANK"
+  },
+  {
+    "stockName": "Sun Pharmaceutical Industries Ltd",
+    "stockPrice": 600.00,
+    "stockPercent": -0.30,
+    "previousClosePrice": 601.80,
+    "stockSymbol": "SUNPHARMA"
+  },
+  {
+    "stockName": "UltraTech Cement Ltd",
+    "stockPrice": 7000.00,
+    "stockPercent": 1.00,
+    "previousClosePrice": 6930.00,
+    "stockSymbol": "ULTRACEMCO"
+  },
+  {
+    "stockName": "Maruti Suzuki India Ltd",
+    "stockPrice": 8000.00,
+    "stockPercent": 0.40,
+    "previousClosePrice": 7970.00,
+    "stockSymbol": "MARUTI"
+  },
+  {
+    "stockName": "Axis Bank Ltd",
+    "stockPrice": 800.00,
+    "stockPercent": -0.15,
+    "previousClosePrice": 801.20,
+    "stockSymbol": "AXISBANK"
+  },
+  {
+    "stockName": "Dr. Reddy's Laboratories Ltd",
+    "stockPrice": 5000.00,
+    "stockPercent": 0.90,
+    "previousClosePrice": 4955.00,
+    "stockSymbol": "DRREDDY"
+  },
+  {
+    "stockName": "Power Grid Corporation of India Ltd",
+    "stockPrice": 200.00,
+    "stockPercent": 0.30,
+    "previousClosePrice": 199.40,
+    "stockSymbol": "POWERGRID"
+  },
+  {
+    "stockName": "NTPC Ltd",
+    "stockPrice": 120.00,
+    "stockPercent": 0.25,
+    "previousClosePrice": 119.70,
+    "stockSymbol": "NTPC"
+  },
+  {
+    "stockName": "Tata Steel Ltd",
+    "stockPrice": 1100.00,
+    "stockPercent": -0.25,
+    "previousClosePrice": 1102.75,
+    "stockSymbol": "TATASTEEL"
+  },
+  {
+    "stockName": "Oil and Natural Gas Corporation Ltd",
+    "stockPrice": 100.00,
+    "stockPercent": 0.10,
+    "previousClosePrice": 99.90,
+    "stockSymbol": "ONGC"
+  },
+  {
+    "stockName": "Mahindra & Mahindra Ltd",
+    "stockPrice": 1400.00,
+    "stockPercent": 0.50,
+    "previousClosePrice": 1393.00,
+    "stockSymbol": "M&M"
+  },
+  {
+    "stockName": "Wipro Ltd",
+    "stockPrice": 400.00,
+    "stockPercent": -0.60,
+    "previousClosePrice": 402.40,
+    "stockSymbol": "WIPRO"
+  },
+  {
+    "stockName": "Coal India Ltd",
+    "stockPrice": 150.00,
+    "stockPercent": 0.20,
+    "previousClosePrice": 149.70,
+    "stockSymbol": "COALINDIA"
+  },
+  {
+    "stockName": "Adani Ports and SEZ Ltd",
+    "stockPrice": 700.00,
+    "stockPercent": 0.65,
+    "previousClosePrice": 695.00,
+    "stockSymbol": "ADANIPORTS"
+  },
+  {
+    "stockName": "Grasim Industries Ltd",
+    "stockPrice": 1600.00,
+    "stockPercent": -0.10,
+    "previousClosePrice": 1601.60,
+    "stockSymbol": "GRASIM"
+  },
+  {
+    "stockName": "SBI Life Insurance Company Ltd",
+    "stockPrice": 1200.00,
+    "stockPercent": 0.50,
+    "previousClosePrice": 1194.00,
+    "stockSymbol": "SBILIFE"
+  },
+  {
+    "stockName": "Bharat Petroleum Corporation Ltd",
+    "stockPrice": 350.00,
+    "stockPercent": 0.30,
+    "previousClosePrice": 348.95,
+    "stockSymbol": "BPCL"
+  },
+  {
+    "stockName": "Hindustan Zinc Ltd",
+    "stockPrice": 250.00,
+    "stockPercent": -0.15,
+    "previousClosePrice": 250.38,
+    "stockSymbol": "HINDZINC"
+  },
+  {
+    "stockName": "Divi's Laboratories Ltd",
+    "stockPrice": 3500.00,
+    "stockPercent": 1.10,
+    "previousClosePrice": 3461.50,
+    "stockSymbol": "DIVISLAB"
+  },
+  {
+    "stockName": "JSW Steel Ltd",
+    "stockPrice": 600.00,
+    "stockPercent": 0.35,
+    "previousClosePrice": 598.00,
+    "stockSymbol": "JSWSTEEL"
+  },
+  {
+    "stockName": "Bajaj Auto Ltd",
+    "stockPrice": 4000.00,
+    "stockPercent": 0.25,
+    "previousClosePrice": 3990.00,
+    "stockSymbol": "BAJAJ-AUTO"
+  },
+  {
+    "stockName": "Hero MotoCorp Ltd",
+    "stockPrice": 3000.00,
+    "stockPercent": -0.05,
+    "previousClosePrice": 3001.50,
+    "stockSymbol": "HEROMOTOCO"
+  },
+  {
+    "stockName": "IndusInd Bank Ltd",
+    "stockPrice": 1000.00,
+    "stockPercent": 0.60,
+    "previousClosePrice": 994.00,
+    "stockSymbol": "INDUSINDBK"
+  },
+  {
+    "stockName": "HDFC Life Insurance Company Ltd",
+    "stockPrice": 600.00,
+    "stockPercent": 0.40,
+    "previousClosePrice": 597.60,
+    "stockSymbol": "HDFCLIFE"
+  },
+  {
+    "stockName": "Adani Green Energy Ltd",
+    "stockPrice": 700.00,
+    "stockPercent": 1.50,
+    "previousClosePrice": 689.50,
+    "stockSymbol": "ADANIGREEN"
+  },
+  {
+    "stockName": "Pidilite Industries Ltd",
+    "stockPrice": 2500.00,
+    "stockPercent": -0.20,
+    "previousClosePrice": 2504.00,
+    "stockSymbol": "PIDILITIND"
+  },
+  {
+    "stockName": "UPL Ltd",
+    "stockPrice": 700.00,
+    "stockPercent": 0.35,
+    "previousClosePrice": 697.60,
+    "stockSymbol": "UPL"
+  },
+  {
+    "stockName": "Siemens Ltd",
+    "stockPrice": 2300.00,
+    "stockPercent": 0.40,
+    "previousClosePrice": 2291.20,
+    "stockSymbol": "SIEMENS"
+  },
+  {
+    "stockName": "Titan Company Ltd",
+    "stockPrice": 2500.00,
+    "stockPercent": 1.00,
+    "previousClosePrice": 2475.00,
+    "stockSymbol": "TITAN"
+  },
+  {
+    "stockName": "Hindalco Industries Ltd",
+    "stockPrice": 500.00,
+    "stockPercent": 0.15,
+    "previousClosePrice": 499.25,
+    "stockSymbol": "HINDALCO"
+  },
+  {
+    "stockName": "Britannia Industries Ltd",
+    "stockPrice": 4500.00,
+    "stockPercent": 0.80,
+    "previousClosePrice": 4464.00,
+    "stockSymbol": "BRITANNIA"
+  },
+  {
+    "stockName": "Avenue Supermarts Ltd",
+    "stockPrice": 4000.00,
+    "stockPercent": 1.30,
+    "previousClosePrice": 3948.80,
+    "stockSymbol": "DMART"
+  },
+  {
+    "stockName": "Eicher Motors Ltd",
+    "stockPrice": 3000.00,
+    "stockPercent": 0.25,
+    "previousClosePrice": 2992.50,
+    "stockSymbol": "EICHERMOT"
+  },
+  {
+    "stockName": "Bajaj Finserv Ltd",
+    "stockPrice": 12000.00,
+    "stockPercent": 0.55,
+    "previousClosePrice": 11934.00,
+    "stockSymbol": "BAJAJFINSV"
+  },
+  {
+    "stockName": "Tech Mahindra Ltd",
+    "stockPrice": 1200.00,
+    "stockPercent": -0.10,
+    "previousClosePrice": 1201.20,
+    "stockSymbol": "TECHM"
+  },
+  {
+    "stockName": "GAIL (India) Ltd",
+    "stockPrice": 130.00,
+    "stockPercent": 0.20,
+    "previousClosePrice": 129.74,
+    "stockSymbol": "GAIL"
+  }
+]
